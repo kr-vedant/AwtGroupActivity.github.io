@@ -1,6 +1,6 @@
 ```
-# AWT Group Activity
-
+# Advanced Web Technologies
+# Group Activity:
 # Group Members:
 # 1da19cs006 - Abhishek Singh Chauhan
 # 1da19cs026 - Ayush Kumar Mishra
